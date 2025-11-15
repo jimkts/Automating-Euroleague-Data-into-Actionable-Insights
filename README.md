@@ -61,5 +61,6 @@ Please open an issue first to discuss what you’d like to add.
 
 ### 👤 Contributors
 - **Dimitris Papastavridis**
-
+GitHub: https://github.com/dimitrispapastavridis
 - **Dimitris Kotsiras**
+
